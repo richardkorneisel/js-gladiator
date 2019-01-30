@@ -22,6 +22,8 @@ console.log(max.weapon) // "Trident"
 
 Make it so that you cannot assign a Gladiator an invalid weapon (i.e., anything aside from Spear, Club or Trident. That means running code like `new Gladiator("Jesse", "Taco")` would throw an error
 
+**_Note:_** Complete Part 2 before starting the Bonus
+
 ## Part 2: The Arena
 
 Create an `Arena` class that meets the following criteria...
