@@ -38,7 +38,7 @@ console.log(colosseum.name) // => Colosseum
 
 ```js
 var megalopolis = new Arena("megalopolis")
-console.log(colosseum.name) // => Megalopolis
+console.log(megalopolis.name) // => Megalopolis
 ```
 
 ### An arena can have gladiators
