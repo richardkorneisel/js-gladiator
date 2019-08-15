@@ -44,7 +44,7 @@ console.log(colosseum.name); // => Colosseum
 ### The name should be capitalized
 
 ```js
-var megalopolis = new Arena("Megalopolis");
+var megalopolis = new Arena("megalopolis");
 console.log(megalopolis.name); // => Megalopolis
 ```
 
