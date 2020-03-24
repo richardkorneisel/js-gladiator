@@ -68,8 +68,8 @@ console.log(colosseum.gladiators); // => [Gladiator]
 
 ```js
 const max = new Gladiator("Maximus", "Trident");
-const titus = new Gladiator("Titus", "Sword");
-const andronicus = new Gladiator("Andronicus", "Sword");
+const titus = new Gladiator("Titus", "Club");
+const andronicus = new Gladiator("Andronicus", "Spear");
 const colosseum = new Arena("Colosseum");
 colosseum.addGladiator(max);
 colosseum.addGladiator(titus);
